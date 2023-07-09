@@ -1,0 +1,16 @@
+.incorrect {
+	color: red;
+}
+
+.correct {
+	color:green;
+}
+
+.answer {
+    width: 110px !important;
+}
+
+#question {
+	font-weight: bold;
+	font-size: 1.4em;
+}
